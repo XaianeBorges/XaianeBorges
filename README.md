@@ -75,7 +75,7 @@
     <li>🌱 Spring Boot</li>
     <li>🐬 MySQL</li>
     <li>🐙 Git & GitHub</li>
-    <li>🧰 Postman | Insomnia</li>
+    <li>🧰 Postman | Swagger</li>
     <li>🖥️ HTML & CSS (básico para integração)</li>
   </ul>
 
