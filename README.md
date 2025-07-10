@@ -103,7 +103,7 @@
   <ul>
     <li><span class="icon">📧</span> <a href="mailto:xaianebezerra@gmail.com">xaianebezerra@gmail.com</a></li>
     <li><span class="icon">📍</span> Recife - PE</li>
-    <li><span class="icon">💼</span> <a href="https://github.com/XaianeBorges" target="_blank">github.com/XaianeBorges</a></li>
+    <li><span class="icon">🔗</span> <a href="https://www.linkedin.com/in/xaiane-borges-955965312" target="_blank">Linkedin Xaiane Borges</a></li>
   </ul>
 </body>
 </html>
