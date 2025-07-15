@@ -11,7 +11,7 @@
       padding: 40px;
       max-width: 800px;
       margin: auto;
-    }
+    
 
     h1 {
       color: #1e88e5;
