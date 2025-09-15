@@ -41,7 +41,7 @@ Tenho interesse em criar soluções robustas, limpas e seguras, aplicando boas p
 
 ## 🎓 Formação
 
-- **Engenharia da Computação** – Conclusão: 2025
+- **Engenharia da Computação** – Conclusão: 2026.2
 
 ---
 
