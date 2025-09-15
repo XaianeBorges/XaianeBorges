@@ -33,7 +33,7 @@ Tenho interesse em criar soluções robustas, limpas e seguras, aplicando boas p
 - Upload de imagens
 - Autentificação de usuários
 - Inscrições de cursos com limitação de vagas
-- Camadas bem definidas (Controller, Service, Repository)
+- Camadas bem definidas (Controller, Service, Repository, DTOs)
 
 🔗 [Veja o projeto no GitHub](https://github.com/XaianeBorges/API)
 
